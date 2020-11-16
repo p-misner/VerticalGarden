@@ -1,4 +1,4 @@
-# Vertical Garden
+# Vertical Garden Harvestor Robot
 ## Semester Long Project for ME35
 
-Visit (p-misner.github.io/VerticalGarden)[p-misner.github.io/VerticalGarden]for more details
+Visit [p-misner.github.io/VerticalGarden](p-misner.github.io/VerticalGarden) for more details
